@@ -1,2 +1,3 @@
 # Bilgisayar_Programlama_Proje_Ilayda_TOPCU
 Bilgisayar Programlama II dersi 2023-2024 bahar dönemi proje ödevi
+Raporun veri kaynağı şiddetten ölen kadınlar için dijital bir anıt olan anıt sayaç sitesinden Python kodundan yararlanarak CSV dosyasına aktarıldı. Veri 2008 yılından başlıyor ve 4 Haziran 2024‘e kadar devam ediyor.Elde edilen veriler Google Colab’dan yararlanılarak çözümlenmiştir.
